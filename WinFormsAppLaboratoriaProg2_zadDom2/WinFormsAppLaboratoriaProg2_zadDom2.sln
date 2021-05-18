@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppLaboratoriaProg2_zadDom2", "WinFormsAppLaboratoriaProg2_zadDom2\WinFormsAppLaboratoriaProg2_zadDom2.csproj", "{4C669061-5BD4-4782-AA5A-E566C060518F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C669061-5BD4-4782-AA5A-E566C060518F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C669061-5BD4-4782-AA5A-E566C060518F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C669061-5BD4-4782-AA5A-E566C060518F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C669061-5BD4-4782-AA5A-E566C060518F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C44621-C4E7-4489-A1A7-DF477C10E3C2}
+	EndGlobalSection
+EndGlobal
